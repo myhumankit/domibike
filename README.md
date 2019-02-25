@@ -1,7 +1,7 @@
 # DomiBike
 Ce projet consiste à ajouter 2 stabilisateurs sur un vélo pour adulte, ainsi qu'une assistance électrique.
 
-![featured_image](images/mhk_logotype.png)
+![featured_image](images/DSCF0302-2.JPG)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/domibike)
