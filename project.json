@@ -4,34 +4,39 @@
         "slug": "domibike",
         "short_description": "Ce projet consiste à ajouter 2 stabilisateurs sur un vélo pour adulte, ainsi qu'une assistance électrique.",
         "lang": "fr",
-        "version": "0.1.0",
-        "featured_image": {
-            "url": "images/DSCF0302-2.JPG"
-        },
+        "license": "CC BY",
+        "about": "Ce projet consiste à ajouter 2 stabilisateurs sur un vélo pour adulte, ainsi qu'une assistance électrique.",
+        "featured_images": [
+            {
+                "image": {
+                    "url": "images/DSCF0302-2.JPG",
+                    "caption": "DomiBike"
+                }
+            }
+        ],
         "links": [
             {
                 "url": "https://rennes.humanlab.me/projet/domibike/",
-                "title": "page d'accueil du projet sur le GesLab",
+                "text": "page d'accueil du projet sur le GesLab",
                 "fa5_icon": "fas fa-home"
             },
             {
                 "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Domibike",
-                "title": "page wiki du projet sur le wiki du Humanlab",
+                "text": "page wiki du projet sur le wiki du Humanlab",
                 "fa5_icon": "fab fa-wikipedia-w"
             },
-            
             {
                 "url": "https://github.com/myhumankit/domibike",
-                "title": "code source de la documentation sur GitHub",
+                "text": "code source de la documentation sur GitHub",
                 "fa5_icon": "fab fa-github"
             }
         ],
         "contributors": [
             {
                 "full_name": "Yohann Véron",
+                "role": "Fabmanager référent",
                 "email": "yo@myhumankit.org",
-                "github_username": "dubhalley",
-                "role": "Fabmanager référent"
+                "github_username": "dubhalley"
             }
         ]
     }
